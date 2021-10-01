@@ -1,10 +1,10 @@
-# PetShopTestWorkshop
+# Blockchain Workshop
 
-Ethereum Tests with Truffle Framework
+Blockchain Tests Workshop at The National Software Testing Conference UK 
 
 ## Requirements
 
-You need to have [Node](https://nodejs.org/en/download/package-manager/) installed.
+You need to have [Node](https://nodejs.org/en/download/package-manager/) and [NPM](https://docs.npmjs.com/getting-started) installed.
 
 ## Installation
 
